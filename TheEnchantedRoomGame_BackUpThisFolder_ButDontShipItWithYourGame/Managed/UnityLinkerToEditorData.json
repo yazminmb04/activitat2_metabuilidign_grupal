@@ -31,7 +31,7 @@
           {
             "name": "NavMeshSettings",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -54,7 +54,7 @@
           {
             "name": "AnimationClip",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -62,7 +62,7 @@
           {
             "name": "Animator",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -70,7 +70,7 @@
           {
             "name": "AnimatorController",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -84,7 +84,7 @@
           {
             "name": "Avatar",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -92,7 +92,7 @@
           {
             "name": "Behaviour",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -118,7 +118,7 @@
           {
             "name": "PositionConstraint",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -148,7 +148,7 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -156,7 +156,7 @@
           {
             "name": "AudioClip",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -164,7 +164,7 @@
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -178,7 +178,7 @@
           {
             "name": "AudioResource",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -186,7 +186,7 @@
           {
             "name": "AudioSource",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -217,7 +217,7 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -231,7 +231,7 @@
           {
             "name": "ComputeShader",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -239,7 +239,7 @@
           {
             "name": "Cubemap",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -259,7 +259,7 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -273,7 +273,7 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -305,7 +305,7 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -313,7 +313,7 @@
           {
             "name": "Light",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -339,7 +339,7 @@
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -359,7 +359,7 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -367,7 +367,7 @@
           {
             "name": "Mesh",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -375,7 +375,7 @@
           {
             "name": "MeshFilter",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -383,7 +383,7 @@
           {
             "name": "MeshRenderer",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -391,7 +391,7 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -405,7 +405,7 @@
           {
             "name": "MonoScript",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -413,7 +413,7 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 1,
             "icon": null
@@ -451,7 +451,7 @@
           {
             "name": "RectTransform",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -465,7 +465,7 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -473,7 +473,7 @@
           {
             "name": "RenderTexture",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -499,7 +499,7 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -513,7 +513,7 @@
           {
             "name": "SkinnedMeshRenderer",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -527,7 +527,7 @@
           {
             "name": "SortingGroup",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -535,7 +535,7 @@
           {
             "name": "Sprite",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1086,7 +1086,7 @@
           {
             "name": "BoxCollider",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1094,7 +1094,7 @@
           {
             "name": "CapsuleCollider",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1150,7 +1150,7 @@
           {
             "name": "Rigidbody",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1158,7 +1158,7 @@
           {
             "name": "SphereCollider",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1826,7 +1826,7 @@
           {
             "name": "Font",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1875,7 +1875,7 @@
           {
             "name": "Canvas",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -1889,7 +1889,7 @@
           {
             "name": "CanvasRenderer",
             "scenes": [
-              "Assets/Scenes/act1.unity"
+              "Assets/Scenes/Actividad Building blocks.unity"
             ],
             "dependencyType": 0,
             "icon": null
