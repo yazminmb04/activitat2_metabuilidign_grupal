@@ -12,7 +12,6 @@ Current features
 
 ● Grab & Distance Interaction: Grabbing, manipulating, and distance-selecting 3D objects (Cube and Sword) using both Touch controllers and Hand Tracking.
 
-● Locomotion System: Teleportation arc system and smooth/snap turn interactions.
 
 ● Anchor Prefab Spawner: Dynamic spawning of physics-based spheres triggered via controller buttons.
 
